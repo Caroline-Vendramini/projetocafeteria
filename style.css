@@ -83,9 +83,10 @@ section{
 }
 
 .home-container {
-    background: url("/imagens/home.jpg");
+    background: url("./imagens/home.jpg");
     background-position: center;
     background-size: cover;
+    min-height: 100vh;
 }
 
 .home-container section {
